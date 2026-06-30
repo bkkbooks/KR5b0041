@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5b0041/CK-KZ/v1
+canonical_location: https://kanripo.org/bkk/KR5b0041/CK-KZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上靈寶天尊說禳災度厄經
+  date: '2015-08-28 23:47:54.424955'
+  source:
+    repository: kanripo
+    path: KR5b0041
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0041_000-CK-KZ.yaml, hash: 'sha256:c7c9ff1cdd1917afa8a57a6904e3dd6bf15a1de6b13144991177ca246de11924'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0041_000-CK-KZ.markers.yaml, hash: 'sha256:8ecae62060bfc63c95aaa17e4e43665012415bd8ff070688259db6365fee3987'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0041_CK-KZ_01p028a
+    span:
+    - body
+    - 0
+    - 246
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:2a8470d12dd1f18aa76f4b4ee336bf0ec956b8300d324584614bb1c2a4f48983

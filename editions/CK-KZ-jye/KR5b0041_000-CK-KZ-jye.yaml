@@ -1,0 +1,25 @@
+canonical_identifier: bkk:krp/KR5b0041/CK-KZ-jye/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 爾時天尊在禪黎國土與大道眞仙萬萬億千人諸天尊及諸天龍鬼神盡來集會受吾約束世間若有善男子善女人忽有年災月厄遊城赤鼠之厄天羅地網之厄命窮算盡之厄疾病纒綿之厄落水波濤之厄虎狼蚖蛇之厄水火盗賊刀兵生產之厄山林樹木社稷之厄土石橋梁之厄毒藥咒詛之厄唯願今對玉皇天尊大道眞聖懴悔解禳度脫身中災厄一一解散勿爲留難勅諸天神王並降聖力道力承此經力恩力衞護弟子受持念誦此經已後解陽九百六之災三衰九橫八難五苦之厄所求如願所履平安出入行藏常䝉吉慶所爲利益所欲隨心於是眾等聞說此經皆大歡喜信受奉行
+  hash: sha256:8a1f6cc2cb0d86f013c4120cc8d863d484a3bc2647f9557c72d08a958699be67
+  markers:
+  - {type: head, offset: 0, content: 太上靈寶天尊說禳災度厄經, id: KR5b0041_CK-KZ-jye_000-h1, level: 1}
+metadata:
+  title: 太上靈寶天尊說禳災度厄經
+  edition:
+    short: CK-KZ-jye
+  date: '2015-08-28 23:47:54.424955'
+  source:
+    repository: kanripo
+    path: KR5b0041/KR5b0041_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:fb75c95465e1eb2dbd408bf8ff987ecfb1f0f8c91e9e7dff0401675a6dd16012

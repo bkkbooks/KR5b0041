@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5b0041/HFL/v1/juan/0
+seq: 0
+front:
+  text: 四經同卷乃六
+  hash: sha256:0e45f7e9eeb2310903c854e697e29d79a4d4ab9cb5766f3ac616f458caf87eb9
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5b0041_HFL_000-001a, image: hfl/0179/0179-120.png}
+body:
+  text: 太上靈寳天尊說禳災度厄經太上神呪延壽妙經太上洞玄靈寳消禳火災經太上洞玄靈寳天尊說養𧖟營種經太上靈寳天尊說禳災度厄經爾時天尊在襌黎國土與大道眞仙萬萬億千人諸天尊及諸天龍鬼神盡來集㑹受吾約束世間若有善男子善女人忽有年災月厄遊城赤䑕之厄天羅地網之厄命窮筭盡之厄疾病纏綿之厄落水波濤之厄虎狼蚖蛇之厄水火盗賊刀兵生產之厄山林樹木社稷之厄土石橋梁之厄毒藥呪詛之厄唯願今對玉皇天尊大道眞聖懴悔解禳度脫身中災厄一一解散勿爲留難勑諸天神王並降聖力道力承此經力恩力衞護弟子受持念誦此經巳後解陽九百六之災三衰九横八難五苦之厄所求如願所履平安出入行藏常蒙吉慶所爲利益所欲隨心於是衆等聞說此經皆大歡喜信受奉行太上靈寳天尊説禳災度厄經
+  hash: sha256:2617d2546a70817914926b739707077d6d459ae4d9c10c6a3174432c57b87a64
+metadata:
+  title: 太上靈寶天尊說禳災度厄經
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+  date: '2015-08-28 23:47:54.424955'
+  source:
+    repository: kanripo
+    path: KR5b0041/KR5b0041_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:cf662a0632f30fb024f8f00b8d2049c511115edc5806a528a0a36c3eb3db018b
